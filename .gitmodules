@@ -1,0 +1,3 @@
+[submodule "piper-browser-extension"]
+	path = piper-browser-extension
+	url = https://github.com/ken107/piper-browser-extension
